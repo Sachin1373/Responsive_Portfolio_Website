@@ -1,1 +1,2 @@
 # Responsive_Portfolio_Website
+Crafting a responsive portfolio website using HTML, CSS, and JavaScript allows me to exhibit my skills and projects professionally. Through organized sections like 'About Me,' 'Portfolio,' and 'Contact,' I offer a glimpse into my background, work, and how to get in touch. Employing responsive design and interactive elements, I aim to provide an engaging and accessible user experience across various devices and screen sizes.
